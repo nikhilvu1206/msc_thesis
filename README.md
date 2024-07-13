@@ -1,7 +1,7 @@
 # msc_thesis
 Code for MSc Thesis DS (UvA)
 
-The code is divided into 2 files. The EDA file (eda_final.ipynb) contains code for the plots we created during the EDA process. In addition, this file also contains the analysis we performed to obtain insights on different reporting behaviors within participants of the PEP study. 
+The code is divided into 2 files. The EDA file (eda.ipynb) contains code for the plots we created during the EDA process. In addition, this file also contains the analysis we performed to obtain insights on different reporting behaviors within participants of the PEP study. 
 
 Furthermore, the main python file (preds.ipynb) contains the code for the predictive modeling phase. In this file you will find the variations of all 3 models, namely the prediction of TR, prediction of symptom reports using multi-output-classification, and prediction of TUC. 
 
